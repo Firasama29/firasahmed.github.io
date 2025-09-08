@@ -6,7 +6,7 @@ tags: [java, npe]
 ---
 
 # Guide to NullPointerException in Java And How to Avoid it
-
+ 
 `NullPointerException` (or `NPE` for short) is one of those dreaded exceptions that every Java developer has to face in their career. We'll discuss the exception, why and when it exists and how to avoid it in detail later, but first, let's understand the concept of null in Java, which is the culprit behind `NullPointerException`.
 
 ## What is `null` in java?
